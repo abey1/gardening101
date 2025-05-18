@@ -7,6 +7,9 @@ export default function Home() {
         <h1 className="text-blue-700 font-[family-name:var(--font-geist-mono)]">
           gardening101.com.au
         </h1>
+        <h2 className="font-[family-name:var(--font-geist-mono)]">
+          second attempt
+        </h2>
         <div className="flex flex-row">
           <Image
             className="dark:invert"
